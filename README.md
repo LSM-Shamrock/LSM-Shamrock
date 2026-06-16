@@ -1,4 +1,4 @@
-## 안녕하세요, 꿈꾸며 성장하는 게임프로그래머 이성민 입니다. 👋
+## 안녕하세요, 꿈꾸며 성장하는 게임프로그래머 이성민 입니다.
 
 <!--
 **LSM-Shamrock/LSM-Shamrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
